@@ -15,6 +15,7 @@ public class HelloWord202357201024 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hello word 2023.57201.024");
     }
     
 }
